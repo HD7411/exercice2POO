@@ -20,7 +20,7 @@ namespace exercice3POO
             int salaire = int.Parse(Console.ReadLine());
 
             Employe employe = new Employe(matricule, nom, prenom, dateNaissance, dateEmbauche, salaire);
-            employe.Age(dateNaissance);
+            employe.AfficherEmploye(dateNaissance, dateEmbauche);
         }
     }
 }

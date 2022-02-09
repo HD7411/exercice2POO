@@ -6,7 +6,21 @@ namespace exercice2POO
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            bool oui = true;
+            while (oui)
+            {
+                Console.WriteLine("Titre du livre : ");
+                string titre = Console.ReadLine();
+                Console.WriteLine("Auteur du livre : ");
+                string auteur = Console.ReadLine();
+                Console.WriteLine("Prix du livre : ");
+                int prix = int.Parse(Console.ReadLine());
+
+                Livre livre = new Livre(titre, auteur, prix);
+
+                livre.Afficher();
+            }
+            
         }
     }
 }

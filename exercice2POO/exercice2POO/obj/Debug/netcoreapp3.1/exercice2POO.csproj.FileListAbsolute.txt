@@ -1,0 +1,13 @@
+C:\Users\h.duperthuy\Documents\exercice2POO\exercice2POO\exercice2POO\bin\Debug\netcoreapp3.1\exercice2POO.exe
+C:\Users\h.duperthuy\Documents\exercice2POO\exercice2POO\exercice2POO\bin\Debug\netcoreapp3.1\exercice2POO.deps.json
+C:\Users\h.duperthuy\Documents\exercice2POO\exercice2POO\exercice2POO\bin\Debug\netcoreapp3.1\exercice2POO.runtimeconfig.json
+C:\Users\h.duperthuy\Documents\exercice2POO\exercice2POO\exercice2POO\bin\Debug\netcoreapp3.1\exercice2POO.runtimeconfig.dev.json
+C:\Users\h.duperthuy\Documents\exercice2POO\exercice2POO\exercice2POO\bin\Debug\netcoreapp3.1\exercice2POO.dll
+C:\Users\h.duperthuy\Documents\exercice2POO\exercice2POO\exercice2POO\bin\Debug\netcoreapp3.1\exercice2POO.pdb
+C:\Users\h.duperthuy\Documents\exercice2POO\exercice2POO\exercice2POO\obj\Debug\netcoreapp3.1\exercice2POO.csproj.AssemblyReference.cache
+C:\Users\h.duperthuy\Documents\exercice2POO\exercice2POO\exercice2POO\obj\Debug\netcoreapp3.1\exercice2POO.AssemblyInfoInputs.cache
+C:\Users\h.duperthuy\Documents\exercice2POO\exercice2POO\exercice2POO\obj\Debug\netcoreapp3.1\exercice2POO.AssemblyInfo.cs
+C:\Users\h.duperthuy\Documents\exercice2POO\exercice2POO\exercice2POO\obj\Debug\netcoreapp3.1\exercice2POO.csproj.CoreCompileInputs.cache
+C:\Users\h.duperthuy\Documents\exercice2POO\exercice2POO\exercice2POO\obj\Debug\netcoreapp3.1\exercice2POO.dll
+C:\Users\h.duperthuy\Documents\exercice2POO\exercice2POO\exercice2POO\obj\Debug\netcoreapp3.1\exercice2POO.pdb
+C:\Users\h.duperthuy\Documents\exercice2POO\exercice2POO\exercice2POO\obj\Debug\netcoreapp3.1\exercice2POO.genruntimeconfig.cache
